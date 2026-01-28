@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Ready4IT_2",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

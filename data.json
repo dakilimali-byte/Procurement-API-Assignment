@@ -1,0 +1,38 @@
+{
+  "produceName": "Maize",
+  "produceType": "Grain",
+  "date": "2026-01-28",
+  "time": "10:30",
+  "tonnageKg": "500",
+  "costUgX": "2500000",
+  "dealerName": "John Traders",
+  "branchName": "Maganjo",
+  "contact": "0701234567",
+  "sellingPrice": "3000000"
+}
+
+{
+  "produceName": "Beans",
+  "produceType": "Legume",
+  "date": "2026-01-29",
+  "time": "11:30",
+  "tonnageKg": "100",
+  "costUgX": "250000",
+  "dealerName": "Daniel ",
+  "branchName": "Matuga",
+  "contact": "0701234567",
+  "sellingPrice": "2000000"
+}
+
+{
+  "produceName": "Maize",
+  "produceType": "Grain",
+  "date": "2026-01-30",
+  "time": "11:30",
+  "tonnageKg": "200",
+  "costUgX": "2500000",
+  "dealerName": "Victor",
+  "branchName": "Matuga",
+  "contact": "0701234423",
+  "sellingPrice": "1000000"
+}
